@@ -1,1 +1,3 @@
 # gitskills
+
+marc is god
